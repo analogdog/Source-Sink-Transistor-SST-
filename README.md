@@ -1,4 +1,6 @@
-# Source-Sink-Transistor-SST-
-This is a repository for the Source Sink Transistor
-This repository contains the engineering files and descriptions for the Source Sink Transistor (SST).
-Current Rev is 4. Schematics and PCB layouts are in PCB Artist and boards were made by Advanced Circuits http://www.4pcb.com/
+# Source-Sink-Transistor (SST)
+This repository contains the engineering files and descriptions for a novel transistor configuration
+known as the Source Sink Transistor (SST).
+Here you will find the schematics and PCB design files for two different revisions of the design.
+There are also user guides and a brief circuit description. 
+The SST was developed for use in the Open Sourcemeter project.
