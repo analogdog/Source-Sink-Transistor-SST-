@@ -1,0 +1,44 @@
+1N4742||#USER=2=do-13||@[Description]=12V Zener||@Manufacturer=Vishay||@Manufacturer Part Number=1N4742A-TR||@Distributor=Digikey||@Distributor Part Number=1N4742AVSCT-ND
+1N4782-12||#USER=2=do-13||@[Description]=12V Zener - DO Not Use use 1N4742||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+1N5817||#USER=2=DO-13||@[Description]=1A Schottky Diode||@Manufacturer=ST Micro||@Manufacturer Part Number=1N5817||@Distributor=Digikey||@Distributor Part Number=497-4547-1-ND
+1N6276A||#USER=2=15KE||@[Description]=TVS 13.6V WV 15.2V 16.8V Vclamp 67A||@Manufacturer=Vishay||@Manufacturer Part Number=1N6276A||@Distributor=||@Distributor Part Number=
+2SA1834||#SM=4=CPT3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+2SC5001||#SM=4=CPT3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+2SD1047||#to247=3=TO247||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+10nf 1%||#USER=2=FilmCap - Large||@[Description]=Film Capacitor 1% 10nf||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+100pf 1%||#USER=2=FilmCapHC18u||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+B130L||#SMD1=2=SMD1||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MLL41=2=MLL41||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+C 56nF||#C0603=2=C0603||@[Description]=56nF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+C 56nF 1206||#1206=2=1206||@[Description]=56nF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+C68uF Tant||#SM=2=CapD||@[Description]=68uF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DSSS35-008AR||#USER=3=TO247||@[Description]=2x35A 80V Diode Vf 0.68V||@Manufacturer=IXYS||@Manufacturer Part Number=DSSS 35-008AR||@Distributor=||@Distributor Part Number=
+FilmCap 7.2x2.5mm||#DSC=2=FilmCap7.2x2.5||@[Description]=Film Cap 7.2mm x 2.5 mm||@Manufacturer=Kemet||@Manufacturer Part Number=R82ECxxx0DQ50J||@Distributor=Digikey||@Distributor Part Number=||@Value=
+FilmCap Lg||#USER=2=FilmCap - Large||@[Description]=Film Capacitor 0.2 x 0.3 in ||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||@Value=6.8nF||@Tolerance=1%
+FilmCap QXY||#MISC=2=FilmCapQXY1H||@[Description]=Poly cap Nichion QXY series||@Value=4.7nF||@Manufacturer=Nichion||@Manufacturer Part Number=QYX1HnnnJTP||@Distributor=Digikey||@Distributor Part Number=
+FilmCap Sm||#USER=2=FilmCapHC18u||@[Description]=Film Cap 0.2 x 0.15 inch||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||@Value=100pf||@Tolerance=1%
+MBRB1635||#SM=4=DDPAK-2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+MF-R500||#DSC=2=MF-R500||@[Description]=Bourns PTC Resetable Fuse IHold = 5A ITrip = 10A||@Manufacturer=Bourns||@Manufacturer Part Number=MF-R500||@Distributor=||@Distributor Part Number=
+PBSS4021SPN||#SOL=8=SO8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PBSS4041SPN||#SOL=8=SO8||@Manufacturer=Nexperia||@Manufacturer Part Number=PBSS4041SPN,115||@Distributor=Digikey||@Distributor Part Number=1727-5110-1-ND
+PMEG100V080||#SM=3=SOT1289||@[Description]=100V 8A Low Leakage Diode||@Manufacturer=Nexperia||@Manufacturer Part Number=PMEG100V080||@Distributor=Digikey||@Distributor Part Number=
+Pot 20T||#DSC=3=POT3V||@[Description]=20 Turn Pot thru hole||@Manufacturer=TT Elec||@Manufacturer Part Number=67WRxxLF||@Distributor=Digikey||@Distributor Part Number=||@Value=
+PWR4412-2SDR1000F||#USER=2=PWR4412||@[Description]=0.1 1% 5W||@Manufacturer=Bourns||@Manufacturer Part Number=PWR4412-2SDR1000F||@Distributor=||@Distributor Part Number=
+R SM1206||#SM=2=SM1206||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R SM1210||#SM=2=SM1210||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||@Value=1.00K||@Tolerance=1%
+R SM1210 1K||#SM=2=SM1210||@[Description]=1K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R SM1210 22K||#SM=2=SM1210||@[Description]=22K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R SM1210 33K||#SM=2=SM1210||@[Description]=33K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R SM1210 100K||#SM=2=SM1210||@[Description]=100K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R SM1210 470||#SM=2=SM1210||@[Description]=470||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R SM1210 750||#SM=2=SM1210||@[Description]=750||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+si4204DYP||#Power Dual SO8=6=Power Dual SO8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+si4564DY||#SOL=8=SO8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+si4564DYPP||#SOL=6=Power Dual SO8||@Manufacturer=Vishay Siliconix||@Manufacturer Part Number=SI4564DY-T1-GE3CT-ND||@Distributor=Digikey||@Distributor Part Number=SI4564DY-T1-GE3CT-ND
+si4922DYP||#Power Dual SO8=6=Power Dual SO8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+SI4925DYPP||#SM=6=Power Dual SO8||@[Description]=Siliconix SI4954DDY dual 30V 8A MOSFETs in Littlefoot SO8 Power package||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#SO8_POWER=9=SO8_POWER||@[Description]=Siliconix SI4954DDY dual 30V 8A MOSFETs in Littlefoot SO8 Power package||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+SIP Res Array||#SIP=8=SIP8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||@Value=1.00k
+SMAZ5V1||#SMD1=2=SMD1||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MLL41=2=MLL41||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+STW2040||#to247=3=TO247||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+TVS P6KE||#USER=2=P6KE||@[Description]=TVS in P6KE package||@Manufacturer=Littlefuse||@Manufacturer Part Number=P6KE16A||@Distributor=Digikey||@Distributor Part Number=F6841CT-ND
+WE-CMB 744824101||#USER=4=WE-CMB 744824101||@[Description]=Wurth 10A CM Choke||@Manufacturer=Wurth||@Manufacturer Part Number=744824101||@Distributor=Digikey||@Distributor Part Number=732-1449-ND
+WSHM2818R1000F||#SM=4=SM2818||@[Description]=0.1 1% 7W||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||@Value=0.1 1%||@Power=7W

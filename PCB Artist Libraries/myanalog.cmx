@@ -1,0 +1,33 @@
+4x1K 1%||#SIP=8=SIP8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+4x10K 1%||#SIP=8=SIP8||@[Description]=Resistor Network SIP||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+78L05LP||#TO92=3=TO92||@[Description]=78L05 TO92||@Manufacturer=ST Micro||@Manufacturer Part Number=L78L05ABZ||@Distributor=Digikey||@Distributor Part Number=497-1009-ND
+AD826P||#DIL=8=DIP8_300||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+AD5444||#SM=10=MSOP10_MC||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+ADG542||#DIL=16=DIP16_300||@[Description]=Quad An Sw ||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+ADG1604||#SM=14=TSSOP14||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CD4053D||#DIL=16=DIP16_300||@[Description]=Analog Switch 3x 2 to 1 mux||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DG390BDJ||#DIL=16=DIP16_300||@[Description]=DG390 16 Pin Dip||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DG403DYZ||#DIL=16=DIP16_300||@Manufacturer=Vishay||@Manufacturer Part Number=DG403DJ-E3||@Distributor=Digikey||@Distributor Part Number=DG403DJ-E3-ND||#SOL=16=SO16||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DG413DYZ||#SO16=16=SO16||@[Description]=DG413 quad analog switch 2 NO 2 NC||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DG449||#SM=8=SOT23-8||@[Description]=SPDT Analog Switch ||@Manufacturer=Vishay||@Manufacturer Part Number=DG449||@Distributor=||@Distributor Part Number=
+DG467||#SM=6=SOT23 6||@[Description]=SPST NC Analog Switch||@Manufacturer=Vishay||@Manufacturer Part Number=DG467DV||@Distributor=||@Distributor Part Number=
+DG468||#SM=6=SOT23 6||@[Description]=SPST NO Analog Switch||@Manufacturer=Vishay||@Manufacturer Part Number=DG468DV||@Distributor=||@Distributor Part Number=
+Dual Op Amp||#DIL=8=DIP8_300||@[Description]=Dual op amp in 8p dip||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||@Value=Dual OPA
+EH28-5.0-02-1M1||#USER=4=EH28-5.0-02-1M1||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+INA117||#SOL=8=SO8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+INA118P||#DIL=8=DIP8_300||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+lLTC4353MS||#SM=16=MSOP-16_MS||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LM317L||#TO92=3=TO92||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LM337L||#TO92=3=TO92||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LM339||#DIL=14=DIP14_300||@[Description]=Quad Comparator with OC outputs||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LM4040C20ILPR||#TO92=3=TO92||@[Description]=LM4040 2.048V||@Manufacturer=TI||@Manufacturer Part Number=LM4040C20ILPR||@Distributor=Digikey||@Distributor Part Number=296-21579-1-ND
+LT1054P||#DIL=8=DIP8_300||@Manufacturer=TI||@Manufacturer Part Number=LT1054CP||@Distributor=Digikey||@Distributor Part Number=296-9591-5-ND
+Max5154CPE||#DIL=16=DIP16_300||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Max5158CPE||#DIL=16=DIP16_300||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Max5214||#SM=8=MSOP-8_MSE||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Max5354 DL||#DIL=8=DIP8_300||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Max5354 SM||#SM=8=MSOP-8_MSE||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Max6241||#DIL=8=DIP8_300||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+OP295P||#DIL=8=DIP8_300||@Manufacturer=Analog Devices||@Manufacturer Part Number=OP295GPZ||@Distributor=Mouser||@Distributor Part Number=584-OP295GPZ
+Quad Op Amp||#USER=14=DIP14_300||@[Description]=Std quad op amp||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||@Name=
+SSM2019||#DIL=8=DIP8_300||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=

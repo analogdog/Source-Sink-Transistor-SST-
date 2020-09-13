@@ -1,0 +1,21 @@
+2 Pin Header||#MISC=2=2x1||@[Description]=2 pin 0.1 inch header||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+2 Pin Receptacle||#MISC=2=2x1||@[Description]=2 pin 0.1 inch header||@Manufacturer=Sullins||@Manufacturer Part Number=PPPC021LFBN-RC||@Distributor=Digikey||@Distributor Part Number=S7035-ND
+2x2 Pin Header||#MISC=4=2x2||@[Description]=2x2 0.1 inch header||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+3 Pin Header||#MISC=3=3x1||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+3x2 Pin Header||#USER=6=3x2||@[Description]=3x2 0.1 inch header||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+4 Pin Header||#USER=4=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+4x2 Pin Header||#USER=8=4x2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+5 Pin Header||#USER=5=5||@[Description]=0.1 in 5 pin header||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+5P Molex 10161051||#USER=5=MOLEX 10-16-1051||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+5x2 Pin Header||#USER=10=5x2||@[Description]=5x2 0.1 inch header||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+6 Pin Header||#USER=6=6x1||@[Description]=0.1 in 6 pin header||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+6x2 Pin Header||#USER=12=6x2||@[Description]=6x2 Pin header 0.1 inch||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+8 Pin Header||#MISC=8=8x1||@[Description]=8 Pin 0.1 Header||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+8 Pin Receptacle||#MISC=8=8x1||@[Description]=8 Pin 0.1 Header||@Manufacturer=Sullins||@Manufacturer Part Number=PPTC081LFBN-RC||@Distributor=Digikey||@Distributor Part Number=S7006-ND
+10 Pin Header||#USER=10=10x1||@[Description]=0.1 in 10 pin header||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+10 Pin Receptacle||#USER=10=10x1||@[Description]=0.1 in 10 pin header||@Manufacturer=Harwin||@Manufacturer Part Number=M20-7821046||@Distributor=Digikey||@Distributor Part Number=952-1847-ND
+BanJack PC RA||#USER=4=P3151||@[Description]=CT3151 RA Banana Jack PCB RA||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+BNC||#USER=4=BNC RA PCB||@[Description]=BNC R/A PCB Mount||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DPDT PC||#DSCV=6=DPDT PC||@Manufacturer=Goldsun||@Manufacturer Part Number=T201T1B1A2QN||@Distributor=Jameco||@Distributor Part Number=26367-100
+Molex 44068-06||#MISC=8=Molex 44068002-6||@[Description]=Molex male B to B conn||@Manufacturer=Molex||@Manufacturer Part Number=0440680002||@Distributor=Digikey||@Distributor Part Number=WM18461-ND||#USER=6=3x2||@[Description]=Molex male B to B conn||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Molex 015247060||#USER=8=Molex 015247060||@[Description]=Molex female B to B plug||@Manufacturer=Molex||@Manufacturer Part Number=015247060||@Distributor=DIgikey||@Distributor Part Number=WM17601-ND
